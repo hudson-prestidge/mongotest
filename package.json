@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/hudson-prestidge/mongotest#readme",
   "dependencies": {
-    "mongodb": "^2.2.11"
+    "mongodb": "^2.2.11",
+    "mongodb-core": "^2.0.13"
   }
 }
