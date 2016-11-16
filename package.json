@@ -1,0 +1,23 @@
+{
+  "name": "mongotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudson-prestidge/mongotest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hudson-prestidge/mongotest/issues"
+  },
+  "homepage": "https://github.com/hudson-prestidge/mongotest#readme",
+  "dependencies": {
+    "mongodb": "^2.2.11"
+  }
+}
